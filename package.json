@@ -11,6 +11,8 @@
   "dependencies": {
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3",
+    "sass": "^1.43.4",
+    "sass-loader": "^12.3.0",
     "stylus": "^0.54.8",
     "stylus-loader": "^3.0.2",
     "swiper": "^6.7.1"
